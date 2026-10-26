@@ -1,7 +1,7 @@
 {
   "dealership": "Prince George Toyota",
-  "generated_at": "2026-10-25T15:30:57",
-  "vehicle_count": 33,
+  "generated_at": "2026-10-25T20:18:54",
+  "vehicle_count": 32,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -235,17 +235,6 @@
       "condition": "new"
     },
     {
-      "name": "2026 Toyota Tundra Hybrid 1794 Edition Advanced Package",
-      "vin": "5TFMC5DBXTX142403",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/new/3e30a367fd1d.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tundra Hybrid",
-      "condition": "new",
-      "price": 92153.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Toyota Tundra SR",
       "vin": "5TFLA5DA1TX442839",
       "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/new/8ddc17c6693e.html",
@@ -257,36 +246,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tundra SR",
+      "name": "2026 Toyota Tundra TRD Offroad",
       "vin": "5TFLA5DB4TX446778",
       "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/new/0270a2874452.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Tundra",
       "condition": "new",
-      "price": 67046.0,
+      "price": 66398.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tundra Limited",
+      "name": "2026 Toyota Tundra Limited TRD",
       "vin": "5TFWA5DB0TX447424",
       "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/new/6e3ddb00204d.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Tundra",
       "condition": "new",
-      "price": 78520.0,
+      "price": 77872.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota Tundra SR",
+      "name": "2026 Toyota Tundra TRD Offroad",
       "vin": "5TFLA5DB0TX447099",
       "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/new/14fc538f47cd.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Tundra",
       "condition": "new",
-      "price": 67046.0,
+      "price": 66398.0,
       "price_currency": "CAD"
     },
     {
@@ -299,14 +288,14 @@
       "condition": "new"
     },
     {
-      "name": "2026 Toyota Tundra SR",
+      "name": "2026 Toyota Tundra TRD Offroad",
       "vin": "5TFLA5DB3TX452510",
       "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/new/89673fe87a5c.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Tundra",
       "condition": "new",
-      "price": 67046.0,
+      "price": 66398.0,
       "price_currency": "CAD"
     },
     {
