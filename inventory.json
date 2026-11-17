@@ -1,7 +1,7 @@
 {
   "dealership": "Prince George Toyota",
-  "generated_at": "2026-10-26T09:25:14",
-  "vehicle_count": 32,
+  "generated_at": "2026-11-16T18:31:07",
+  "vehicle_count": 31,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -215,24 +215,26 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Toyota RAV4 Plug-In Hybrid GR Sport",
-      "vin": "JTM7ERAV3TD029987",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/new/ef0e4da9ce86.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "RAV4 Plug-In Hybrid",
-      "condition": "new",
-      "price": 61467.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Tacoma",
-      "vin": "3TYLB5JN5TT159021",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/new/e3a9285ca2d4.html",
+      "name": "2026 Toyota Tacoma Trail Hunter",
+      "vin": "3TYLC5LN9TT081336",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/new/bd07dbcfa1c8.html",
       "year": 2026,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "new"
+      "condition": "new",
+      "price": 86555.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Toyota Tundra Hybrid Platinum",
+      "vin": "5TFNC5DB1TX136770",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/new/370d3f110bf9.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tundra Hybrid",
+      "condition": "new",
+      "price": 90651.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026 Toyota Tundra SR",
@@ -299,14 +301,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota C-HR XSE",
-      "vin": "JTMAAAAD4VJ032525",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/new/354d8c40257c.html",
-      "year": 2027,
+      "name": "2026 Toyota Tundra TRD Offroad",
+      "vin": "5TFLA5DB6TX452839",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/new/80163b0c06d7.html",
+      "year": 2026,
       "make": "Toyota",
-      "model": "C-HR",
+      "model": "Tundra",
       "condition": "new",
-      "price": 49375.0,
+      "price": 66498.0,
       "price_currency": "CAD"
     },
     {
@@ -318,17 +320,6 @@
       "model": "Corolla",
       "condition": "new",
       "price": 29002.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Toyota Corolla Hatchback SE Plus",
-      "vin": "JTNK4MBE0V3273972",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/new/7c654b5790e3.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "new",
-      "price": 30920.0,
       "price_currency": "CAD"
     },
     {
