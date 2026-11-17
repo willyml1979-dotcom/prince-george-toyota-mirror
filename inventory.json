@@ -1,52 +1,63 @@
 {
   "dealership": "Prince George Toyota",
-  "generated_at": "2026-11-16T18:31:07",
-  "vehicle_count": 31,
+  "generated_at": "2026-11-17T11:37:32",
+  "vehicle_count": 37,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2017 Nissan Rogue SV",
-      "vin": "5N1AT2MV5HC734670",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/ac7202e7693a.html",
+      "name": "2017 Ram 1500 Sport",
+      "vin": "1C6RR7HTXHS514840",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/0140180dcdde.html",
       "year": 2017,
-      "make": "Nissan",
-      "model": "Rogue",
+      "make": "Ram",
+      "model": "1500",
       "condition": "used",
-      "price": 22701.0,
+      "price": 29701.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Jeep Compass Limited",
-      "vin": "3C4NJDCB6JT361938",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/7db4f9aab042.html",
-      "year": 2018,
-      "make": "Jeep",
-      "model": "Compass",
+      "name": "2019 GMC Sierra 1500 Elevation",
+      "vin": "1GTU9CED3KZ399876",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/aaa98cb1657d.html",
+      "year": 2019,
+      "make": "GMC",
+      "model": "Sierra 1500",
       "condition": "used",
-      "price": 18701.0,
+      "price": 35701.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Ford Edge Titanium",
-      "vin": "2FMPK4K98LBB19974",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/99e08212bb3d.html",
-      "year": 2020,
-      "make": "Ford",
-      "model": "Edge",
+      "name": "2019 Honda Civic Sedan LX",
+      "vin": "2HGFC2F52KH014689",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/4f3592307df4.html",
+      "year": 2019,
+      "make": "Honda",
+      "model": "Civic",
       "condition": "used",
-      "price": 26701.0,
+      "price": 23701.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Nissan Sentra SV",
-      "vin": "3N1AB8CV3NY258663",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/e82ec0a7a8fc.html",
+      "name": "2019 Honda HR-V LX",
+      "vin": "3CZRU6H38KM100435",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/32d057792d46.html",
+      "year": 2019,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "used",
+      "price": 24701.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Ram 3500 Big Horn",
+      "vin": "3C63R3DL0NG112705",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/8e9b8b69af0d.html",
       "year": 2022,
-      "make": "Nissan",
-      "model": "Sentra",
+      "make": "Ram",
+      "model": "3500",
       "condition": "used",
-      "price": 21701.0,
+      "price": 63701.0,
       "price_currency": "CAD"
     },
     {
@@ -68,7 +79,7 @@
       "make": "Toyota",
       "model": "Corolla",
       "condition": "used",
-      "price": 24701.0,
+      "price": 22701.0,
       "price_currency": "CAD"
     },
     {
@@ -79,18 +90,7 @@
       "make": "Toyota",
       "model": "Tundra",
       "condition": "used",
-      "price": 51701.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Hyundai Santa Fe Preferred",
-      "vin": "5NMS3DAJ7PH634415",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/b080e862e4b2.html",
-      "year": 2023,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 29701.0,
+      "price": 49701.0,
       "price_currency": "CAD"
     },
     {
@@ -105,6 +105,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Nissan Rogue S",
+      "vin": "5N1AT3AB2PC899154",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/dd999c52b224.html",
+      "year": 2023,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 21997.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Toyota 4Runner TRD Offroad",
+      "vin": "JTERU5JR0P6134063",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/ac4175c6338c.html",
+      "year": 2023,
+      "make": "Toyota",
+      "model": "4Runner",
+      "condition": "used",
+      "price": 64701.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Toyota RAV4 Hybrid XLE",
+      "vin": "2T3RWRFV5PW153704",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/dccda1f76ff6.html",
+      "year": 2023,
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
+      "condition": "used",
+      "price": 42701.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Ford Escape PHEV",
       "vin": "1FMCU0E17RUA46588",
       "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/411f510524db.html",
@@ -112,7 +145,18 @@
       "make": "Ford",
       "model": "Escape PHEV",
       "condition": "used",
-      "price": 32701.0,
+      "price": 26701.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Toyota Grand Highlander Limited",
+      "vin": "5TDAAAB5XRS063617",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/a9aaf354dc38.html",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "Grand Highlander",
+      "condition": "used",
+      "price": 60701.0,
       "price_currency": "CAD"
     },
     {
@@ -145,7 +189,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "used",
-      "price": 58701.0,
+      "price": 54701.0,
       "price_currency": "CAD"
     },
     {
@@ -156,7 +200,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 31701.0,
+      "price": 29701.0,
       "price_currency": "CAD"
     },
     {
@@ -167,7 +211,18 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "used",
-      "price": 38701.0,
+      "price": 36701.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Toyota 4Runner Limited",
+      "vin": "JTEVA5BR1S5050080",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/0e887c502053.html",
+      "year": 2025,
+      "make": "Toyota",
+      "model": "4Runner",
+      "condition": "used",
+      "price": 71701.0,
       "price_currency": "CAD"
     },
     {
@@ -189,18 +244,7 @@
       "make": "Toyota",
       "model": "Corolla Hybrid",
       "condition": "used",
-      "price": 33701.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Toyota Tacoma TRD Offroad",
-      "vin": "3TYLB5JN4ST063945",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/d9a384a20fdf.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used",
-      "price": 54997.0,
+      "price": 31701.0,
       "price_currency": "CAD"
     },
     {
@@ -212,6 +256,28 @@
       "model": "Tacoma Hybrid",
       "condition": "used",
       "price": 76701.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Volkswagen Jetta Comfortline",
+      "vin": "3VWSX7BU9SM088265",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/e9bd5ec60903.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "used",
+      "price": 29701.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Outback Touring",
+      "vin": "JF2BUPCD9TY504204",
+      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/39e30dac6939.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Outback",
+      "condition": "used",
+      "price": 41997.0,
       "price_currency": "CAD"
     },
     {
