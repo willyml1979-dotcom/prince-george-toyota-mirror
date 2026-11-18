@@ -1,7 +1,7 @@
 {
   "dealership": "Prince George Toyota",
-  "generated_at": "2026-11-17T11:37:32",
-  "vehicle_count": 37,
+  "generated_at": "2026-11-17T18:34:28",
+  "vehicle_count": 33,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -321,39 +321,8 @@
       "make": "Toyota",
       "model": "Tundra",
       "condition": "new",
-      "price": 66398.0,
+      "price": 68576.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Tundra Limited TRD",
-      "vin": "5TFWA5DB0TX447424",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/new/6e3ddb00204d.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "new",
-      "price": 77872.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Tundra TRD Offroad",
-      "vin": "5TFLA5DB0TX447099",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/new/14fc538f47cd.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "new",
-      "price": 66398.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Toyota Tundra Limited Hybrid",
-      "vin": "5TFPC5DB9TX152319",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/new/a60e01234a57.html",
-      "year": 2026,
-      "make": "Toyota",
-      "model": "Tundra",
-      "condition": "new"
     },
     {
       "name": "2026 Toyota Tundra TRD Offroad",
@@ -378,17 +347,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Toyota Corolla Hatchback SE",
-      "vin": "JTNK4MBE7V3276545",
-      "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/new/7d3ff683adc8.html",
-      "year": 2027,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "new",
-      "price": 29002.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Toyota Corolla LE",
       "vin": "5YFB4MDE1VP512180",
       "url": "https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/new/2bb9e63769c2.html",
@@ -396,7 +354,7 @@
       "make": "Toyota",
       "model": "Corolla",
       "condition": "new",
-      "price": 28460.0,
+      "price": 30180.0,
       "price_currency": "CAD"
     },
     {
@@ -407,7 +365,7 @@
       "make": "Toyota",
       "model": "bZ",
       "condition": "new",
-      "price": 50335.0,
+      "price": 51467.0,
       "price_currency": "CAD"
     }
   ]
