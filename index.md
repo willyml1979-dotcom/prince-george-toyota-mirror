@@ -1,6 +1,6 @@
 # Prince George Toyota
 
- dealership in Prince George. AI-readable inventory mirror, about 33 vehicles.
+ dealership in Prince George. AI-readable inventory mirror, about 35 vehicles.
 
 - Official website: https://www.princegeorgetoyota.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/prince-george-toyota-mirror/used/
